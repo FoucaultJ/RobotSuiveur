@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : TemplateThreadCom.cpp
-// Author      : SG
-// Version     :
+// Author      : SG, Julie Foucault et Guilllaume Bergeron
+// Version     : N/A
 // Copyright   : Your copyright notice
 // Description : Template Thread Com
 //============================================================================
